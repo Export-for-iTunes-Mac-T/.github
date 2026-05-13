@@ -1,7 +1,7 @@
 # ExportForiTunes Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/51324/l/export-for-itunes-logo.png?v=1656510744" width="150" alt="Export for iTunes icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/1e/6f/a61e6ff1-d6b9-fd74-0e9d-f00505c4d9a4/Placeholder.mill/200x200bb-75.webp" width="150" alt="Export for iTunes icon"/>
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 The <a href="#">playlist-based export system</a> copies music organized by playlist hierarchy rather than dumping everything into a single flat folder. Your playlists become folders, nested playlists become nested folders, and every track lands where it belongs relative to the playlist structure that reflects how you organize your music. <a href="#">Complete metadata preservation</a> carries ratings, play counts, last played dates, comments, artwork, and all other tag data from the library into the exported files so the copy is as rich as the original.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/331446/m/export-for-itunes-screenshot.png?v=1656510750" alt="Export for iTunes screenshot"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5429c98be4b06c998a91a95e/1648627519506-O6WKM1WOQCBAHQ59D9CC/ExportForItunes+5.png" alt="Export for iTunes screenshot"/>
 </p>
 
 <a href="#">Selective export options</a> export specific playlists, albums, artists, or the entire library depending on what the current operation requires — a full library backup, a playlist for a road trip drive, or a selection for a specific device. <a href="#">Duplicate handling</a> identifies and manages cases where the same track appears in multiple playlists, offering to copy once and create references or copy separately for each playlist depending on the destination's intended use.
